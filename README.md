@@ -66,18 +66,3 @@ A demonstration video is included showing:
 4. Start the PLC simulation
 5. Run Factory I/O and observe the color-based sorting behavior
 
----
-
-## 🎯 Learning Outcomes
-
-* Ladder Logic (LAD) programming for industrial automation
-* Sensor-based control systems
-* Actuator control using pushers
-* PLC and Factory I/O integration for virtual commissioning
-
----
-
-
-## ⭐ If you find this project useful
-
-Feel free to ⭐ star the repository or fork it for learning and experimentation.
